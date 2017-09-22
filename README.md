@@ -1,2 +1,1 @@
-# SSO
-SSO Using 
+SSO(Single Sign On) is windows(waffle) based application(this application will not work in linux machines)
